@@ -12,6 +12,7 @@
 |---------------------|---------------------------------------|
 | Open Object Library | ⌘ + L                                 |
 | Update Frames       | ⌘ + = (when a UI element is selected) |
+| Add Segue           | Control Click and Drao to View Controller |
 
 ### General
 
@@ -40,5 +41,5 @@
 | Search within current file             | Command + F                                         |
 | Search within entire project           | Command + Shift + F                                 |
 | Open Assistant Editor at specific file | Option + Click on file in project navigator         |
-
+| Select Next Occurence Of Selection     | ⌘ + Option + E                                      |
 
