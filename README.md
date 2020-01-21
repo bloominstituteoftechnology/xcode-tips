@@ -40,5 +40,7 @@
 | Search within current file             | Command + F                                         |
 | Search within entire project           | Command + Shift + F                                 |
 | Open Assistant Editor at specific file | Option + Click on file in project navigator         |
+| Open multiple files at same time       | Command + t                                         |
+
 
 
