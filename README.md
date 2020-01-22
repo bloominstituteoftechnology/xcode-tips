@@ -23,12 +23,15 @@
 
 ### Code Editing
 
-| Description                            | Hotkey                                |
-|----------------------------------------|---------------------------------------|
-| Select to previous or next whitespace  | Option + Shift + Left or Right        |
-| Select to start or end of line         | Command + Shift + Left or Right       |
-| Move selected code up or down a line   | Command + Option + [ or ]             |
-| Indent selected code correctly         | Control + I                           |
+| Description                                        | Hotkey                                             |
+|----------------------------------------------------|----------------------------------------------------|
+| Select to previous or next whitespace              | Option + Shift + Left or Right                     |
+| Select to start or end of line                     | Command + Shift + Left or Right                    |
+| Move selected code up or down a line               | Command + Option + [ or ]                          |
+| Indent selected code correctly                     | Control + I                                        |
+| Jump to beginning/end of words                     | Option + Left or Right arrow                       |
+| Place cursor on multiple lines (Consecutively)     | Hold Option + Click & Drag Up or Down              |
+| Place cursor on multiple lines (Non-consecutively) | Hold Ctrl & Shift + Click on lines to place cursor |
 
 ### Xcode Navigation
 
