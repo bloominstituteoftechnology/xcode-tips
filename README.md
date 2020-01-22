@@ -13,7 +13,8 @@
 | Open Object Library | ⌘ + L                                 |
 | Update Frames       | ⌘ + = (when a UI element is selected) |
 | Add Segue           | Control Click and Drao to View Controller |
-| Open code file of selected View Controller in Storyboard | Control + Option + Command + Enter |
+| Open Assistant Editor with file of selected View Controller | Control + Option + Command + Return |
+| Close Assistant Editor after opening selected View Controller file | Command + Return |
 
 ### General
 
