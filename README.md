@@ -25,8 +25,9 @@
 
 | Description                                        | Hotkey                                             |
 |----------------------------------------------------|----------------------------------------------------|
-| Select to previous or next whitespace              | Option + Shift + Left or Right                     |
-| Select to start or end of line                     | Command + Shift + Left or Right                    |
+| Select to previous or next whitespace              | Option + Shift + Left or Right arrow               |
+| Select to start or end of line                     | Command + Shift + Left or Right arrow              |
+| Select single space or character                   | Shift + Left or Right arrow                        |
 | Move selected code up or down a line               | Command + Option + [ or ]                          |
 | Indent selected code correctly                     | Control + I                                        |
 | Jump to beginning/end of words                     | Option + Left or Right arrow                       |
