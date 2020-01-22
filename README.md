@@ -42,4 +42,4 @@
 | Search within entire project           | Command + Shift + F                                 |
 | Open Assistant Editor at specific file | Option + Click on file in project navigator         |
 | Select Next Occurence Of Selection     | ⌘ + Option + E                                      |
-
+| Open multiple files at the same time   | Command + T                                         |
