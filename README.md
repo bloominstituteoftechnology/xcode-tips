@@ -8,11 +8,11 @@
 
 ### Storyboard
 
-| Description         | Hotkey                                |
-|---------------------|---------------------------------------|
-| Open Object Library | ⌘ + L                                 |
-| Update Frames       | ⌘ + = (when a UI element is selected) |
-| Add Segue           | Control Click and Drao to View Controller |
+| Description         | Hotkey                                    |
+|---------------------|-------------------------------------------|
+| Open Object Library | ⌘ + Shift + L                             |
+| Update Frames       | ⌘ + = (when a UI element is selected)     |
+| Add Segue           | Control Click and Drag to View Controller |
 
 ### General
 
@@ -31,6 +31,7 @@
 | Move selected code up or down a line   | Command + Option + [ or ]             |
 | Indent selected code correctly         | Control + I                           |
 | Open code snippets                     | Command + Shift + L                   |
+| Select multiple lines simultaneously   | Shift + Control + Click               |
 
 ### Xcode Navigation
 
