@@ -27,8 +27,10 @@
 |----------------------------------------|---------------------------------------|
 | Select to previous or next whitespace  | Option + Shift + Left or Right        |
 | Select to start or end of line         | Command + Shift + Left or Right       |
+| Add or remove indent from line(s)      | Command + [ or ]                      |
 | Move selected code up or down a line   | Command + Option + [ or ]             |
 | Indent selected code correctly         | Control + I                           |
+| Open code snippets                     | Command + Shift + L                   |
 
 ### Xcode Navigation
 
