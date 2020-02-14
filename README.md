@@ -12,9 +12,9 @@
 |---------------------|---------------------------------------|
 | Open Object Library | ⌘ + L                                 |
 | Update Frames       | ⌘ + = (when a UI element is selected) |
-| Add Segue           | Control Click and Drao to View Controller |
+| Add Segue           | Control Click and Drag to View Controller |
 
-### General
+### General (Not Xcode Specific)
 
 | Description                   | Hotkey                                |
 |-------------------------------|---------------------------------------|
