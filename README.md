@@ -14,7 +14,7 @@
 | Update Frames       | ⌘ + = (when a UI element is selected)     |
 | Add Segue           | Control Click and Drag to View Controller |
 
-### General
+### General (Not Xcode Specific)
 
 | Description                   | Hotkey                                |
 |-------------------------------|---------------------------------------|
