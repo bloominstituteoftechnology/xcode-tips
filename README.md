@@ -27,11 +27,16 @@
 |----------------------------------------|---------------------------------------|
 | Select to previous or next whitespace  | Option + Shift + Left or Right        |
 | Select to start or end of line         | Command + Shift + Left or Right       |
+| Select single space or character       | Shift + Left or Right arrow           |
+| Jump to beginning/end of words         | Option + Left or Right arrow          |
 | Add or remove indent from line(s)      | Command + [ or ]                      |
 | Move selected code up or down a line   | Command + Option + [ or ]             |
 | Indent selected code correctly         | Control + I                           |
 | Open code snippets                     | Command + Shift + L                   |
 | Select multiple lines simultaneously   | Shift + Control + Click               |
+| Place cursor on multiple lines (Consecutively)     | Hold Option + Click & Drag Up or Down              |
+| Place cursor on multiple lines (Non-consecutively) | Hold Ctrl & Shift + Click on lines to place cursor |
+
 
 ### Xcode Navigation
 
