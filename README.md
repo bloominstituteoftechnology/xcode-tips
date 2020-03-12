@@ -8,11 +8,14 @@
 
 ### Storyboard
 
-| Description         | Hotkey                                    |
-|---------------------|-------------------------------------------|
-| Open Object Library | ⌘ + Shift + L                             |
-| Update Frames       | ⌘ + = (when a UI element is selected)     |
-| Add Segue           | Control Click and Drag to View Controller |
+| Description                                                        | Hotkey                                    |
+|--------------------------------------------------------------------|-------------------------------------------|
+| Open Object Library                                                | ⌘ + Shift + L                             |
+| Update Frames                                                      | ⌘ + = (when a UI element is selected)     |
+| Add Segue                                                          | Control Click and Drag to View Controller |
+| Open Assistant Editor with file of selected View Controller        | Control + Option + Command + Return       |
+| Close Assistant Editor after opening selected View Controller file | Command + Return                          |
+
 
 ### General (Not Xcode Specific)
 
