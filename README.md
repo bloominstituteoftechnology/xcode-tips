@@ -19,7 +19,7 @@
 | Description                   | Hotkey                                |
 |-------------------------------|---------------------------------------|
 | Shuffle between open apps     | ⌘ + tab                               |
-| Shuffle between Xcode windows | ⌘ + ` (above the tab key)             |
+| Shuffle between Xcode windows | ⌘ + \` (above the tab key)            |
 
 ### Code Editing
 
