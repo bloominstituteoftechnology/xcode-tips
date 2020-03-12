@@ -8,31 +8,35 @@
 
 ### Storyboard
 
-| Description         | Hotkey                                |
-|---------------------|---------------------------------------|
-| Open Object Library | ⌘ + L                                 |
-| Update Frames       | ⌘ + = (when a UI element is selected) |
-| Add Segue           | Control Click and Drao to View Controller |
+| Description         | Hotkey                                    |
+|---------------------|-------------------------------------------|
+| Open Object Library | ⌘ + Shift + L                             |
+| Update Frames       | ⌘ + = (when a UI element is selected)     |
+| Add Segue           | Control Click and Drag to View Controller |
 
-### General
+### General (Not Xcode Specific)
 
 | Description                   | Hotkey                                |
 |-------------------------------|---------------------------------------|
 | Shuffle between open apps     | ⌘ + tab                               |
-| Shuffle between Xcode windows | ⌘ + ` (above the tab key)             |
+| Shuffle between Xcode windows | ⌘ + \` (above the tab key)            |
 
 ### Code Editing
 
-| Description                                        | Hotkey                                             |
-|----------------------------------------------------|----------------------------------------------------|
-| Select to previous or next whitespace              | Option + Shift + Left or Right arrow               |
-| Select to start or end of line                     | Command + Shift + Left or Right arrow              |
-| Select single space or character                   | Shift + Left or Right arrow                        |
-| Move selected code up or down a line               | Command + Option + [ or ]                          |
-| Indent selected code correctly                     | Control + I                                        |
-| Jump to beginning/end of words                     | Option + Left or Right arrow                       |
+| Description                            | Hotkey                                |
+|----------------------------------------|---------------------------------------|
+| Select to previous or next whitespace  | Option + Shift + Left or Right        |
+| Select to start or end of line         | Command + Shift + Left or Right       |
+| Select single space or character       | Shift + Left or Right arrow           |
+| Jump to beginning/end of words         | Option + Left or Right arrow          |
+| Add or remove indent from line(s)      | Command + [ or ]                      |
+| Move selected code up or down a line   | Command + Option + [ or ]             |
+| Indent selected code correctly         | Control + I                           |
+| Open code snippets                     | Command + Shift + L                   |
+| Select multiple lines simultaneously   | Shift + Control + Click               |
 | Place cursor on multiple lines (Consecutively)     | Hold Option + Click & Drag Up or Down              |
 | Place cursor on multiple lines (Non-consecutively) | Hold Ctrl & Shift + Click on lines to place cursor |
+
 
 ### Xcode Navigation
 
